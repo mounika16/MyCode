@@ -1,0 +1,8 @@
+Tools to create, Compile and Execute your own Mobile App:
+-------------------------------------------------------------------
+->Internet Connection
+    Open
+    www.ai2.appinventor.mit.edu/
+->Gmail Account
+->App Inventer Starter
+->Android Device
